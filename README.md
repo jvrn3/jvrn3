@@ -1,6 +1,6 @@
 
 <img align='left' height='400' src='https://media.giphy.com/media/xTiN0FXnoSlDhSjgR2/giphy.gif' />
-<img align='right' height='300' src='https://media.giphy.com/media/8mvV5eUXkM18iCm5Eg/giphy.gif' />
+<img align='right' height='200' src='https://media.giphy.com/media/8mvV5eUXkM18iCm5Eg/giphy.gif' />
 
 
 ### Hi there, I'm João Vitor. 👨‍💻
