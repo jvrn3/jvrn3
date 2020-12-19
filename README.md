@@ -3,7 +3,7 @@
 <img align='right' height='200' src='https://media.giphy.com/media/8mvV5eUXkM18iCm5Eg/giphy.gif' />
 
 
-### Hi there,. 
+### Hi there!
 
 #### ✨ About me: 
 - 👨‍💻 name: João Vitor
