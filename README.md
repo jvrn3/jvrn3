@@ -7,7 +7,7 @@
 
 #### ✨ About me: 
 - 👨‍💻 name: João Vitor
-- 🎉 age: 23
+- 🎉 age: 24
 - 🇧🇷 country: Brazil 
 - 🧔 pronouns: he/him 
 - 🎸 hobby: playing guitar 
