@@ -18,5 +18,7 @@
   
 
 
- My home page: <a href="https://joaovneto.me">joaovneto.me</a>
+My home page: <a href="https://joaovneto.me">joaovneto.me</a>
+
+My CV: <a href="https://github.com/jvrn3/cv">CV </a>
 
